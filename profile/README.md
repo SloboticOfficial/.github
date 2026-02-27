@@ -38,9 +38,13 @@ Less shipping is an obvious win for mother nature, but using less continuous pow
 
 I've always wanted to Do More With Less. Here are some loved sources of inspiration:
 
- - OpenBSD - The minimalist, safe, quality conscious open source operating system.
- - Low-Tech Magazine - Showing us how low-tech often worked in olden days and can still be a solution today.
+ - [OpenBSD](https://www.openbsd.org/) - The minimalist, safe, quality conscious open source operating system. Using Vim and Tmux within cwm(1) here is a blissful, distration free way to work. The environment and community encourages, simplicity and quality.
+ - [Low-Tech Magazine](https://solar.lowtechmagazine.com/) - Showing us how low-tech often worked in olden days and can still be a solution today.
  - Ancient engineers - identifying the Five Simple Machines and building amazing things, like treadwheels and shadufs, showed we can move anything with the right designs.
+ - [507 Mechanical Movements book](https://dn721900.ca.archive.org/0/items/Mechanical_Movements_507/Mechanical_Movements_507.pdf) - by Henry T. Brown. Reading these or finding animations of them is very inspiring for building things
+ - [Tim Hunkin](https://www.youtube.com/channel/UCGrpLw1W3P1_BC4J-Hpytww) - veteran tinkerer, whose Secret Life of Components series on YouTube helped me start thinking I could build things in the physical world, after a life of digital building.
+ - [Jeremy Fielding](https://www.youtube.com/@Jeremy_Fielding) - Another YouTube find, who really encourages DIY electronics and robotics, using salvaged components where possible.
+ - [Scott Wadsworth / Essential Craftsman](https://www.youtube.com/@essentialcraftsman) - Really inspired and taught me some good basics of traditional hand and power tools, along with simple and brilliant mechanical advantage uses.  
 
 > -- Leon Stafford, founder of Slobotic
 
