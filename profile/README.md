@@ -10,7 +10,7 @@
 
 The usual trade-off is to spend more to get things done quicker. What if you adjust the slider the other way?
 
-### Our Philosophy
+### Philosophy
 
 Life is just fine done slowly. There's no race to get to the end, we're all going to arrive when needed.
 
@@ -38,4 +38,6 @@ I've always wanted to Do More With Less. Here are some loved sources of inspirat
 
  - OpenBSD - The minimalist, safe, quality conscious open source operating system.
  - Low-Tech Magazine - Showing us how low-tech often worked in olden days and can still be a solution today.
- - Ancient engineers - identifying the Five Simple Machines and building amazing things with them showed we can move anything with the right designs.
+ - Ancient engineers - identifying the Five Simple Machines and building amazing things, like treadwheels and shadufs, showed we can move anything with the right designs.
+
+> -- Leon Stafford, founder of Slobotic
