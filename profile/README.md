@@ -24,9 +24,11 @@ ie, we can lift a 50 kg load up 10 metres in seconds, using costly equipment and
 
 But, if we can wait an hour to lift that same load, it allows us to use very small, cheap components and very low voltages/amps.
 
+### Spend less, work less
+
 The cost difference may be 100, 1,000 or incalculable times cheaper by going slow. 
 
-If you're dependent on shipping to receive your components, smaller ones may be free to ship, where larger ones may be cost prohibitive to ship, especially internationally.
+If you're dependent on shipping to receive your components, smaller ones may be free to ship, where larger ones may be cost prohibitive to freight, especially internationally.
 
 ### Environmental Care
 
@@ -41,3 +43,10 @@ I've always wanted to Do More With Less. Here are some loved sources of inspirat
  - Ancient engineers - identifying the Five Simple Machines and building amazing things, like treadwheels and shadufs, showed we can move anything with the right designs.
 
 > -- Leon Stafford, founder of Slobotic
+
+### Design Goals
+
+ - low power requirements
+ - cheap/upcycled components
+ - intuitive, user-centric controls
+ - functionally beautiful - just enough to do the job, no cruft
