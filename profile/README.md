@@ -64,3 +64,8 @@ I've always wanted to Do More With Less. Here are some loved sources of inspirat
  - Custom prototyping work - got an idea and want to hire me to proof of concept it or work out the kinks?
  - Consulting work - want to lower costs by introducing Slowbots into your existing or new process?
  - Craft/automata sales - want some fun creations of mine to decorate and inspire?
+
+### Initial projects
+
+ - Low voltage snail cam bellows for air exchange
+ - Pantograph/4 bar linkage shovel scoop
