@@ -69,4 +69,5 @@ I've always wanted to Do More With Less. Here are some loved sources of inspirat
 
  - Low voltage snail cam bellows for air exchange
  - Pantograph/4 bar linkage shovel scoop
-- air jack style adjustable cart (inner tube sandwhiched between sheets, 13" tube should do ~ 500ks
+ - air jack style adjustable cart (inner tube sandwhiched between sheets, 13" tube should do ~ 500ks
+ - differential hoist 50:1 using knotted rope
