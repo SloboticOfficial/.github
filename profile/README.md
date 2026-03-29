@@ -71,3 +71,12 @@ I've always wanted to Do More With Less. Here are some loved sources of inspirat
  - Pantograph/4 bar linkage shovel scoop
  - air jack style adjustable cart (inner tube sandwhiched between sheets, 13" tube should do ~ 500ks
  - differential hoist 50:1 using knotted rope
+
+### Self-imposed constraints
+
+Constraints are sometimes useful, to narrow the endless possibilities when decision making. As much as possible, I'll use OpenBSD for development. This serves a few purposes for me and target audience of my projects:
+
+ - to keep me at less stressed (OpenBSD gets out of my way, without unwanted notifications and prompts)
+ - it keeps me in a tinkering mindset
+ - it keeps tooling free and able to be run on minimal hardware
+ - if it runs on OpenBSD, it will likely run anywhere
