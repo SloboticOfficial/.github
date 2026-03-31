@@ -67,7 +67,7 @@ I've always wanted to Do More With Less. Here are some loved sources of inspirat
 
 ### Initial projects
 
- - Low voltage snail cam bellows for air exchange
+ - Low voltage snail cam bellows for air exchange (look into N20, 1000:1 + Cycloid gear of 60:1 for slow, high torque lift)
  - Pantograph/4 bar linkage shovel scoop
  - air jack style adjustable cart (inner tube sandwhiched between sheets, 13" tube should do ~ 500ks
  - differential hoist 50:1 using knotted rope
